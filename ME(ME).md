@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AdolfoBal
+- 👀 I’m interested in video game development
+- 🌱 I’m currently studying Computer Engineering
