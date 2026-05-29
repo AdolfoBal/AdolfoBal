@@ -1,13 +1,13 @@
 <h1 align="center">Adolfo Balzano</h1>
 <p align="center">
-Studente di Ingegneria Informatica · Computer Engineering Student
+Dottore in Ingegneria Informatica · Bachelor of Science in Computer Engineering
 </p>
 
 ---
 
 ### Italiano
 
-Sono uno studente di **Ingegneria Informatica**, con laurea ormai imminente.
+Dottore in **Ingegneria Informatica**.
 Mi interessa in particolare lo **sviluppo software** e il **game development**, con attenzione alla qualita del codice e alla crescita tecnica continua.
 
 **Interessi principali**
@@ -19,7 +19,7 @@ Mi interessa in particolare lo **sviluppo software** e il **game development**, 
 
 ### English
 
-I am a **Computer Engineering student**, with graduation approaching.
+I am a **Computer Engineer**.
 My main interests are **software development** and **video game development**, with a strong focus on code quality and continuous technical growth.
 
 **Main interests**
